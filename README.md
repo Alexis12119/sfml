@@ -9,4 +9,3 @@ To generate an executable
 ```sh
 make
 ```
- 
