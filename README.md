@@ -2,7 +2,7 @@
 
 `cd build` and run this
 ```cmake
-cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON ..
+cmake -G "Unix Makefiles" ..
 ```
 
 To generate an executable
