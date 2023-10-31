@@ -1,8 +1,13 @@
 # SFML-example
 
 `cd build` and run this
-```cmake
+```sh
 cmake -G "Unix Makefiles" ..
+```
+or ninja way
+
+```sh
+cmake -G "Ninja" ..
 ```
 
 To generate an executable
