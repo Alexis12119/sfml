@@ -1,6 +1,9 @@
 # SFML-example
 
-`cd build` and run this
+```sh
+mkdir build
+cd build
+```
 
 ```sh
 cmake -G "Unix Makefiles" ..
